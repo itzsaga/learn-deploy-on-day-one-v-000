@@ -800,6 +800,26 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/mo-armstrong.jpg");
 }
 
+#seth-alexander-cover {
+ background-image: url("http://i.imgur.com/F9IKI4j.jpg");
+}
+
+#seth-alexander-card {
+ background-image: url("http://i.imgur.com/wQV16t3.jpg?1");
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+
+#seth-alexander-card:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
 #tanner-lancaster-cover {
   background-image: url("http://i.imgur.com/rCwcgSf.jpg");
 }
